@@ -9,7 +9,7 @@ using PrimerParcial;
 namespace PrimerParcial.Migrations
 {
     [DbContext(typeof(TareasDb))]
-    [Migration("20201019155618_Inicial")]
+    [Migration("20201019165503_Inicial")]
     partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
