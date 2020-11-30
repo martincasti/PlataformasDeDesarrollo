@@ -1,0 +1,9 @@
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\bin\Debug\netcoreapp2.0\ClassLibrary.deps.json
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\bin\Debug\netcoreapp2.0\ClassLibrary.dll
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\bin\Debug\netcoreapp2.0\ClassLibrary.pdb
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.dll
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\08092020\Ejercicio 3\ClassLibrary\obj\Debug\netcoreapp2.0\ClassLibrary.pdb

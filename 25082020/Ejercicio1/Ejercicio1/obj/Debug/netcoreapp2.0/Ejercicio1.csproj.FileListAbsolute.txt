@@ -1,0 +1,11 @@
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp2.0\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp2.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp2.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp2.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp2.0\Ejercicio1.deps.json
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp2.0\Ejercicio1.runtimeconfig.json
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp2.0\Ejercicio1.runtimeconfig.dev.json
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp2.0\Ejercicio1.dll
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\bin\Debug\netcoreapp2.0\Ejercicio1.pdb
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp2.0\Ejercicio1.dll
+C:\Users\titox\source\repos\PlataformasDeDesarrollo\25082020\Ejercicio1\Ejercicio1\obj\Debug\netcoreapp2.0\Ejercicio1.pdb
