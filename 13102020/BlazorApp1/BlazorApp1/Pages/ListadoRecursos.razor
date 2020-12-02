@@ -1,0 +1,42 @@
+﻿@page "/ListadoRecursos"
+
+@using BlazorApp1.Data
+@inject RecursoServicies Service
+
+<h3>Listado de recursos</h3>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+@if (Service == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>idRecurso</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in recurso)
+            {
+                <tr>
+                    <td>@forecast.idRecurso</td>
+                    <td>@forecast.nombre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Recursos> recurso;
+
+    protected override async Task OnInitializedAsync()
+    {
+        recurso = await Service.ListaRecursos();
+    }
+}
